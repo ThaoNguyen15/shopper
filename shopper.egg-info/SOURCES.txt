@@ -1,0 +1,10 @@
+setup.py
+shopper/__init__.py
+shopper/search.py
+shopper/shop.py
+shopper/store.py
+shopper/utils.py
+shopper.egg-info/PKG-INFO
+shopper.egg-info/SOURCES.txt
+shopper.egg-info/dependency_links.txt
+shopper.egg-info/top_level.txt
